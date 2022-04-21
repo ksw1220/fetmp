@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290.574" height="109.065" viewBox="0 0 240.574 109.065">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000070;
+        font-size: 20px;
+        font-family: NotoSansKR-Regular, Noto Sans KR;
+        letter-spacing: -0.025em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        stroke: green;
+      }
+
+      .cls-3 {
+        stroke: #ffc312;
+      }
+
+      .cls-4 {
+        stroke: #ea2027;
+      }
+    </style>
+  </defs>
+  <g id="그룹_559" data-name="그룹 559" transform="translate(-12239 -246.935)">
+    <text id="가능한_날" data-name="가능한 날" class="cls-1" transform="translate(12383.574 269.935)"><tspan x="-38.04" y="0">가능한 날</tspan></text>
+    <text id="조정이_필요한_날" data-name="조정이 필요한 날" class="cls-1" transform="translate(12412.574 309.967)"><tspan x="-66.88" y="0">조정이 필요한 날</tspan></text>
+    <text id="불가능한_날" data-name="불가능한 날" class="cls-1" transform="translate(12392.287 350)"><tspan x="-46.99" y="0">불가능한 날</tspan></text>
+    <line id="선_99" data-name="선 99" class="cls-2" x2="79.72" transform="translate(12244 261.435)"/>
+    <line id="선_100" data-name="선 100" class="cls-3" x2="79.72" transform="translate(12244 301.467)"/>
+    <line id="선_101" data-name="선 101" class="cls-4" x2="79.72" transform="translate(12244 341.5)"/>
+  </g>
+</svg>

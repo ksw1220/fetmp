@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="56" viewBox="0 0 230 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000070;
+        font-size: 50px;
+        font-family: BritannicBold, Britannic;
+      }
+
+      .cls-2 {
+        fill: #009432;
+      }
+
+      .cls-3 {
+        fill: #ffc312;
+      }
+
+      .cls-4 {
+        fill: #ea2027;
+      }
+    </style>
+  </defs>
+  <text id="whenwhen" class="cls-1" transform="translate(1 45)"><tspan x="0" y="0">wh</tspan><tspan class="cls-2" y="0">e</tspan><tspan class="cls-3" y="0">n</tspan><tspan class="cls-4" y="0">w</tspan><tspan class="cls-2" y="0">h</tspan><tspan y="0">en</tspan></text>
+</svg>

@@ -1,0 +1,136 @@
+.rdrCalendarWrapper {
+  color: #000000;
+  font-size: 12px;
+  width: 100%;
+  height: 30rem;
+}
+
+.rdrMonths {
+  width: 100%;
+  height: 100%;
+  font-size: 0.85rem;
+}
+.rdrMonth {
+  width: 50% !important;
+  height: 100%;
+}
+
+.rdrDay {
+  height: 5em !important;
+}
+.rdrDayToday .rdrDayNumber span:after {
+  background: #7953d2 !important;
+}
+
+.rdrInRange {
+  color: #f3f3ff !important;
+}
+
+.rdrInRange ~ .rdrDayNumber span,
+.rdrSelected ~ .rdrDayNumber span {
+  color: black !important;
+}
+
+@media screen and (max-width: 1200px) {
+  .rdrMonth {
+    width: 90% !important;
+    height: 100%;
+  }
+}
+
+/* 
+.rdrStartEdge {
+  border-radius: 100% 0 0 100% !important;
+}
+
+.rdrEndEdge {
+  border-radius: 0 100% 100% 0 !important;
+} */
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  width: 300px;
+  border: 2px black solid;
+  border-radius: 5px;
+}
+
+.button {
+  height: 50px;
+  width: 250px;
+  margin: 20px;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.textarea {
+  height: 50px;
+  width: 250px;
+  margin: 20px;
+  resize: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+
+
+
+.rdrCalendarWrapper {
+  color: #000000;
+  font-size: 12px;
+  width: 100%;
+  height: 30rem;
+}
+
+.rdrMonths {
+  width: 100%;
+  height: 100%;
+  font-size: 0.85rem;
+}
+.rdrMonth {
+  width: 50% !important;
+  height: 100%;
+}
+
+.rdrDay {
+  height: 5em !important;
+}
+.rdrDayToday .rdrDayNumber span:after {
+  background: #7953d2 !important;
+}
+
+.rdrInRange {
+  color: #f3f3ff !important;
+}
+
+.rdrInRange ~ .rdrDayNumber span,
+.rdrSelected ~ .rdrDayNumber span {
+  color: black !important;
+}
+
+@media screen and (max-width: 1200px) {
+  .rdrMonth {
+    width: 90% !important;
+    height: 100%;
+  }
+}
+
+/* 
+.rdrStartEdge {
+  border-radius: 100% 0 0 100% !important;
+}
+
+.rdrEndEdge {
+  border-radius: 0 100% 100% 0 !important;
+} */
